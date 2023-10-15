@@ -1,0 +1,8 @@
+# Ignore object files and executables
+*.o
+*.out
+*.exe
+
+# Ignore obj and bin folders
+obj/
+bin/
